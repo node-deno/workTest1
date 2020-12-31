@@ -1,0 +1,23 @@
+{
+  "name": "worktest1",
+  "version": "1.0.0",
+  "description": "第一次编程大赛",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-deno/workTest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-deno/workTest1/issues"
+  },
+  "homepage": "https://github.com/node-deno/workTest1#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "js-sha256": "^0.9.0"
+  }
+}
